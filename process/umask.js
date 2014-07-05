@@ -1,3 +1,5 @@
+// unix socket permission
+
 var oldmask, newmask = 0644;
 
 oldmask = process.umask(newmask);
