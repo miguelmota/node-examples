@@ -1,4 +1,4 @@
-# Node Example
+# Node Examples
 
 Examples on how to use some of the [Node.js](http://nodejs.org/api/) core modules.
 
